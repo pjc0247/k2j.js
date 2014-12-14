@@ -27,5 +27,6 @@ k2j.js
 사용법 使い方
 ----
 ```js
+init();
 console.log( k2j("곤니치와") );
 ```
